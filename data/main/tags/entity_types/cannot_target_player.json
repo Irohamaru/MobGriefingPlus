@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:hoglin",
+    "minecraft:zoglin",
+    "minecraft:vex",
+    "minecraft:ender_dragon",
+    "minecraft:guardian",
+    "minecraft:elder_guardian"
+  ]
+}
